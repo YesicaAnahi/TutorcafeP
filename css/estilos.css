@@ -6,3 +6,9 @@ body{
 h1{
   color: yellow;
 }
+
+#contenido{
+
+  width: 900px
+  margin:0 auto;
+}
